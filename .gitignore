@@ -1,3 +1,4 @@
 venv
 .DS_store
 kiva_project_solution.ipynb
+.ipynb_checkpoints
